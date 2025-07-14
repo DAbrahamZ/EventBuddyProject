@@ -105,7 +105,51 @@ Sensitive data is never stored in plain text or insecure storage.
 Contributions
 Contributions are welcome! Please fork the repository and submit pull requests for improvements or bug fixes.
 
-License
+*Main Screen*
+
+<img src="./assets/Screenshot_20250714-203240.Expo Go.png" alt="Main Screen" width="320"/>
+
+*Sign Up*
+
+<img src="./assets/Screenshot_20250714-203244.Expo Go.png" alt="Sign Up" width="320"/>
+
+*Account Created*
+
+<img src="./assets/Screenshot_20250714-203319.Expo Go.png" alt="Account Created" width="320"/>
+
+*Events List*
+
+<img src="./assets/Screenshot_20250714-203322.Expo Go.png" alt="Events List" width="320"/>
+
+*Event Details*
+
+<img src="./assets/Screenshot_20250714-203334.Expo Go.png" alt="Events Details" width="320"/>
+
+*Participating*
+
+<img src="./assets/Screenshot_20250714-203338.Expo Go.png" alt="Participating" width="320"/>
+
+*Added to Favorites*
+
+<img src="./assets/Screenshot_20250714-203343.Expo Go.png" alt="Favorites" width="320"/>
+
+*Profile*
+
+<img src="./assets/Screenshot_20250714-203354.Expo Go.png" alt="Profile" width="320"/>
+
+*Birthday*
+
+<img src="./assets/Screenshot_20250714-203401.Expo Go.png" alt="Birthday" width="320"/>
+
+*Updated*
+
+<img src="./assets/Screenshot_20250714-203414.Expo Go.png" alt="Updated" width="320"/>
+
+*Icon*
+
+<img src="./assets/Screenshot_20250714-203420.Expo Go.png" alt="Icon" width="320"/>
+
+Licenses:
 MIT License.
 
 Contact
